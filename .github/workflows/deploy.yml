@@ -1,0 +1,18 @@
+# Sample workflow for building and deploying a Hugo site to GitHub Pages
+name: Deploy Questions
+
+on:
+  # Runs on pushes targeting the default branch
+  push:
+    branches: ["main"]
+
+jobs:
+  call-workflow:
+    # You must add these permissions so the called workflow can deploy
+    permissions:
+      contents: read
+      id-token: write
+      packages: read
+      pages: write      # Required if deploying to GitHub Pages
+    uses: gurukulams/design-system/.github/workflows/questions-deploy.yml@main
+    secrets: inherit # If the sub-workflow needs access to secrets
