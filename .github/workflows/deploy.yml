@@ -5,7 +5,7 @@ on:
   # Runs on pushes targeting the default branch
   push:
     branches: ["main"]
-
+  
 jobs:
   call-workflow:
     # You must add these permissions so the called workflow can deploy
