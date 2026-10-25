@@ -1,10 +1,10 @@
 ﻿---
 choices:
-  - State Emergency
-  - Internal Emergency
-  - Executive power of President
-  - Office of the Vice-President
-  - Office of the Attorney General
+  - Article 53
+  - Article 63
+  - Article 356
+  - Article 76
+  - Article 352
 matches:
   - Executive power of President
   - Office of the Vice-President
