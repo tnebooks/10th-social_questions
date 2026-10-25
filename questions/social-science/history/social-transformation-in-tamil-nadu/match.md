@@ -5,17 +5,10 @@ choices:
   - Singaravelar
   - Natesanar
 matches:
-  - 1-4
-  - 2-3
-  - 3-1
-  - 4-2
+  - Tani Tamil Iyakkam
+  - Jeeviya Saritha Surukkam
+  - Thozhilalan
+  - Dravidian Home
 ---
 
 ## Match the Following
-
-| No. | Column A | Column B |
-| --- | --- | --- |
-| 1 | Dravidian Home | Maraimalai Adigal |
-| 2 | Thozhilalan | Rettaimalai Srinivasan |
-| 3 | Tani Tamil Iyakkam | Singaravelar |
-| 4 | Jeeviya Saritha Surukkam | Natesanar |

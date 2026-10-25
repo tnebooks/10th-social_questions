@@ -1,5 +1,4 @@
-﻿
----
+﻿---
 choices:
   - State Emergency
   - Internal Emergency
