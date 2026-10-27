@@ -11,8 +11,5 @@ matches:
   - Syngman Rhee
   - Egypt
   - Ho-Chi Minh
-
----
-
 ## Match the Following
 
