@@ -1,14 +1,15 @@
 ﻿---
 choices:
-  - President of Germany
-  - Hitler
-  - Italy
-  - gold
+   - Hindenburg
+   - Third Reich
+   - Matteotti
+   - Transvaal
+ 
 matches:
-  - Hindenburg
-  - Third Reich
-  - Matteotti
-  - Transvaal
+   - President of Germany
+   - Hitler
+   - Italy
+   - gold
 ---
 
 ## Match the Following
