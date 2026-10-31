@@ -7,7 +7,7 @@ answers:
   - '1908'
 ---
 
-## In which year was the Chota Nagpur Act passed?
+## Chota Nagpur Act passed in the year_____
 
 ```markdown
 #### The Chota Nagpur Tenancy Act was passed in 1908.

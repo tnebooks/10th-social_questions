@@ -9,7 +9,7 @@ answers:
 
  i) The Turkish Empire contained many non-Turkish people in the Balkans.
 
- ii) Turkey fought on the side of the central powers
+ ii) Turkey fought on the side of the central powers.
  
  iii) Turkey’s attempt to attack Suez Canal but were repulsed.
 ---

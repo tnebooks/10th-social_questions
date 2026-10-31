@@ -7,7 +7,7 @@ answers:
   - Gopalakrishna Gokhale
 ---
 
-## Gandhi regarded ________ as his political guru.
+## Gandhi regarded _______ as his political guru.
 
 ```markdown
 Mahatma Gandhi deeply respected Gopalakrishna Gokhale and regarded him as his political mentor and guru.

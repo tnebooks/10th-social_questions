@@ -7,7 +7,7 @@ answers:
   - '1885'
 ---
 
-## In which year was Womesh Chandra Bannerjee elected president of the Indian National Congress?
+## Womesh Chandra Bannerjee elected the president of the Indian National Congress in the year _____
 
 ```markdown
 #### Womesh Chandra Bannerjee became the first president of the Indian National Congress in 1885.
