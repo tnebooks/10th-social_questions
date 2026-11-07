@@ -6,9 +6,7 @@ choices:
 answers:
   - 26 November 1949
 ---
+The Constitution of India was adopted on ________.
 
-## The Constitution of India was adopted on ________.
-
-```markdown
+---
 The Constitution of India was adopted and enacted by the Constituent Assembly on November 26, 1949, and later came into full effect on January 26, 1950.
-```

@@ -1,10 +1,10 @@
 ---
 choices:
-  - a) (i) and (iii) are correct
-  - c) (ii) and (iii) are correct
-  - d) (iii) and (iv) are correct
+  -  (i) and (iii) are correct
+  -  (ii) and (iii) are correct
+  -  (iii) and (iv) are correct
 answers:
-  - b) (i) and (iv) are correct
+  -  (i) and (iv) are correct
 ---
 
 (i) One of the most significant contributions of the early Indian Nationalists was the formulation of an economic critique of colonialism.

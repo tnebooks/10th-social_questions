@@ -11,5 +11,4 @@ matches:
    - Italy
    - gold
 ---
-
-## Match the Following
+Match the Following

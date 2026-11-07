@@ -1,10 +1,10 @@
 ---
 choices:
-  - a) Both (A) and (R) are true and (R) explains (A)
+  -  Both (A) and (R) are true and (R) explains (A)
   - 'b) Both (A) and (R) are true: (R) does not explain (A)'
-  - d) (A) is false (R) is true
+  -  (A) is false (R) is true
 answers:
-  - c) (A) is correct (R) is false
+  -  (A) is correct (R) is false
 ---
 
 Assertion (A): Horticulture involves cultivation of fruits, vegetables, and flowers.

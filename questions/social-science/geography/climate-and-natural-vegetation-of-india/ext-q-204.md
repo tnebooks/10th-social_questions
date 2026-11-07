@@ -6,11 +6,9 @@ choices:
 answers:
   - Bay of Bengal
 ---
-
-## Retreating monsoon winds pick up moisture while passing over the:
+Retreating monsoon winds pick up moisture while passing over the:
 
 ---
 
-```markdown
+---
 The retreating northeast monsoon picks up moisture from the Bay of Bengal and brings rain to parts of southeastern India.
-```

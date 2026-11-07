@@ -10,5 +10,4 @@ matches:
   - Begum Hazarat Mahal
   - Nana Sahib
 ---
-
-## Match the Following
+Match the Following

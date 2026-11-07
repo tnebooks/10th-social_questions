@@ -6,8 +6,7 @@ choices:
 answers:
   - 'Germany, Austria-Hungary, and the Ottomans'
 ---
-
-## What were the three major empires shattered by the end of the First World War?
+What were the three major empires shattered by the end of the First World War?
 
 ---
 The German, Austro-Hungarian, and Ottoman empires were defeated and dismantled or transformed at the end of the war.

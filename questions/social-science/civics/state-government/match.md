@@ -12,6 +12,5 @@ matches:
   - Responsible for the Assembly
   - cannot vote for grants
 ---
-
-## Match the Following
+Match the Following
 

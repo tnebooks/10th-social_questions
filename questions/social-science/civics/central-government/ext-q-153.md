@@ -6,11 +6,9 @@ choices:
 answers:
   - The Governor
 ---
-
-## Who acts as the Chancellor of state universities in a State?
+Who acts as the Chancellor of state universities in a State?
 
 ---
 
-```markdown
+---
 In many states, the Governor serves as Chancellor of state universities under state law; the arrangement can vary by state.
-```

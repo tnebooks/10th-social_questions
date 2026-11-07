@@ -6,11 +6,9 @@ choices:
 answers:
   - '5'
 ---
-
-## How many types of Writs are mentioned under Article 32 of the Constitution?
+How many types of Writs are mentioned under Article 32 of the Constitution?
 
 ---
 
-```markdown
+---
 Article 32 provides five types of writs: habeas corpus, mandamus, prohibition, certiorari, and quo warranto.
-```

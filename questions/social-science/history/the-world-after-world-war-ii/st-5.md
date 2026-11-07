@@ -1,10 +1,10 @@
 ---
 choices:
-  - a) (ii) and (iii) are correct
-  - c) (i) and (iii) are correct
+  -  (ii) and (iii) are correct
+  -  (i) and (iii) are correct
   - 'd) (i), (ii) and (iii) are correct'
 answers:
-  - b) (i) and (ii) are correct
+  -  (i) and (ii) are correct
 ---
 
 i) In 1948 the Soviets had established socialist governments in the countries of Eastern Europe that had been liberated from the Nazis by the Soviet Army.

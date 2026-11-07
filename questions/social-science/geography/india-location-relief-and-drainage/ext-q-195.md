@@ -6,8 +6,7 @@ choices:
 answers:
   - '3,214 km'
 ---
-
-## The north-south extent of India is:
+The north-south extent of India is:
 
 ---
 

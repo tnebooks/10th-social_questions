@@ -6,11 +6,9 @@ choices:
 answers:
   - 26th November 1949
 ---
-
-## The Constitution of India was officially adopted by the Constituent Assembly on:
+The Constitution of India was officially adopted by the Constituent Assembly on:
 
 ---
 
-```markdown
+---
 The Constituent Assembly adopted the Constitution on 26 November 1949; it came into force on 26 January 1950.
-```

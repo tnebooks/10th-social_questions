@@ -6,9 +6,7 @@ choices:
 answers:
   - Jyotirao Phule
 ---
+Gulamgiri was written by ________.
 
-## Gulamgiri was written by ________.
-
-```markdown
+---
 Jyotirao Phule wrote 'Gulamgiri' (Slavery) in 1873 to critique the caste system and highlight the oppression of lower castes and untouchables.
-```

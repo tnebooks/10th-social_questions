@@ -7,8 +7,7 @@ answers:
   - "Honey"
   - "Horticulture"
 ---
-
-## Golden Revolution is related to the accelerated production of:
+Golden Revolution is related to the accelerated production of:
 
 ---
 

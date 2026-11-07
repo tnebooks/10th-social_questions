@@ -6,9 +6,7 @@ choices:
 answers:
   - 1st July 2017
 ---
+The Goods and Service Tax act came into effect on __________.
 
-## The Goods and Service Tax act came into effect on __________.
-
-```markdown
+---
 The Goods and Services Tax (GST) Act came into force in India on 1st July 2017, replacing multiple indirect taxes under the principle of "One Nation, One Tax".
-```

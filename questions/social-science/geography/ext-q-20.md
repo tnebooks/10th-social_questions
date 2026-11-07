@@ -6,11 +6,9 @@ choices:
 answers:
   - Pawan Hans
 ---
-
-## Which of the following is associated with helicopter service?
+Which of the following is associated with helicopter service?
 
 ---
 
-```markdown
+---
 Pawan Hans is the Indian public-sector company associated with helicopter services.
-```

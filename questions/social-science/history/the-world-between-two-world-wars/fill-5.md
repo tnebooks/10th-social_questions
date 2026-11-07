@@ -6,9 +6,7 @@ choices:
 answers:
   - '1910'
 ---
+The Union of South Africa came into being in May ________.
 
-## The Union of South Africa came into being in May ________.
-
-```markdown
+---
 The Union of South Africa was formed on May 31, 1910, unifying four separate British colonies into a self-governing dominion.
-```

@@ -10,5 +10,4 @@ matches:
   - Britain
   - lightning strike
 ---
-
-## Match the Following
+Match the Following

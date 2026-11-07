@@ -6,8 +6,7 @@ answers:
   - "Agasthiyamalai"
   - "Great Nicobar"
 ---
-
-## Which of the following is part of the World Network of Biosphere Reserves of UNESCO?
+Which of the following is part of the World Network of Biosphere Reserves of UNESCO?
 
 ---
 

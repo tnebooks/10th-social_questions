@@ -3,10 +3,10 @@ choices:
   - >-
     a) Both (A) and (R) are correct, but (R) is not the correct explanation of
     (A)
-  - b) Both (A) and (R) are wrong
-  - d) (A) is wrong and (R) is correct
+  -  Both (A) and (R) are wrong
+  -  (A) is wrong and (R) is correct
 answers:
-  - c) Both (A) and (R) are correct and (R) is the correct explanation of (A)
+  -  Both (A) and (R) are correct and (R) is the correct explanation of (A)
 ---
 
 Assertion (A):Puli Thevar tried to get the support of Hyder Ali and the French.

@@ -6,11 +6,9 @@ choices:
 answers:
   - Ganga river system
 ---
-
-## The largest river drainage system in India is:
+The largest river drainage system in India is:
 
 ---
 
-```markdown
+---
 The Ganga river system drains the largest area in India, extending across much of northern India.
-```

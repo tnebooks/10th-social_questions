@@ -6,8 +6,7 @@ choices:
 answers:
   - NH 45
 ---
-
-## The longest National Highway in Tamil Nadu is:
+The longest National Highway in Tamil Nadu is:
 
 ---
 NH 45 is identified in the textbook's numbering as the longest National Highway in Tamil Nadu.

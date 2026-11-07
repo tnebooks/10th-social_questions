@@ -6,11 +6,9 @@ choices:
 answers:
   - Josef Goebbels
 ---
-
-## The Nazi Party's propaganda minister was:
+The Nazi Party's propaganda minister was:
 
 ---
 
-```markdown
+---
 Josef Goebbels served as the Nazi Party's Minister of Propaganda under Adolf Hitler.
-```

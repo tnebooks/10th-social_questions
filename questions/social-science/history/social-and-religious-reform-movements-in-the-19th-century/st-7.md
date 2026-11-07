@@ -1,10 +1,10 @@
 ---
 choices:
-  - a) i) is correct
-  - b) ii) is correct
-  - d) iii) and iv) are correct
+  -  i) is correct
+  -  ii) is correct
+  -  iii) and iv) are correct
 answers:
-  - c) i) and ii) are correct
+  -  i) and ii) are correct
 ---
 
 i) Prarthana Samaj was founded by Dr. Atma Ram Pandurang

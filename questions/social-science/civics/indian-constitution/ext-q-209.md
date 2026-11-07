@@ -6,11 +6,9 @@ choices:
 answers:
   - Right to Constitutional remedies
 ---
-
-## Which of the following rights was described by Dr. B.R. Ambedkar as the 'heart and soul' of the Constitution?
+Which of the following rights was described by Dr. B.R. Ambedkar as the 'heart and soul' of the Constitution?
 
 ---
 
-```markdown
+---
 Dr. B.R. Ambedkar called the Right to Constitutional Remedies the heart and soul of the Constitution because it enables people to enforce their Fundamental Rights.
-```

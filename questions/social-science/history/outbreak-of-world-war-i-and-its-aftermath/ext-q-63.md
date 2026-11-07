@@ -6,8 +6,7 @@ choices:
 answers:
   - Britain
 ---
-
-## To which country did the first Secretary-General of the League of Nations belong?
+To which country did the first Secretary-General of the League of Nations belong?
 
 ---
 Sir Eric Drummond, the League of Nations' first Secretary-General, was British.

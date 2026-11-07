@@ -6,11 +6,9 @@ choices:
 answers:
   - Gestapo
 ---
-
-## The Secret State Police in Nazi Germany was known as the:
+The Secret State Police in Nazi Germany was known as the:
 
 ---
 
-```markdown
+---
 The Gestapo was Nazi Germany's secret state police, responsible for suppressing opposition and enforcing the regime's rule.
-```

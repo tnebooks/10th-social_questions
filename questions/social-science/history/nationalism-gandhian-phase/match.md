@@ -12,5 +12,4 @@ matches:
   - Direct Action Day
   - Black Act
 ---
-
-## Match the Following
+Match the Following

@@ -1,8 +1,8 @@
 ---
 choices:
-  - a) Both (A) and (R) are true and (R) explains (A)
-  - c) (A) is true but (R) is false
-  - d) (A) is false but (R) is true
+  -  Both (A) and (R) are true and (R) explains (A)
+  -  (A) is true but (R) is false
+  -  (A) is false but (R) is true
 answers:
   - 'b) Both (A) and (R) are true but, (R) does not explain (A)'
 ---

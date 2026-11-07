@@ -6,11 +6,9 @@ choices:
 answers:
   - '1872'
 ---
-
-## In India, the first non-synchronous census was carried out in the year:
+In India, the first non-synchronous census was carried out in the year:
 
 ---
 
-```markdown
+---
 India's first census was conducted non-synchronously in 1872; the first synchronous census followed in 1881.
-```

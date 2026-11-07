@@ -7,8 +7,7 @@ choices:
 answers:
   - "Mt. Godwin Austen (K2)"
 ---
-
-## Which peak is considered the highest in India in standard Indian geography texts?
+Which peak is considered the highest in India in standard Indian geography texts?
 
 ---
 

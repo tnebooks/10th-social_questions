@@ -6,11 +6,9 @@ choices:
 answers:
   - Petroleum
 ---
-
-## The major commodity imported by India in terms of value is:
+The major commodity imported by India in terms of value is:
 
 ---
 
-```markdown
+---
 Petroleum, especially crude oil, is India's major import by value because domestic production does not meet demand.
-```

@@ -1,10 +1,10 @@
 ---
 choices:
-  - a) i) is correct
-  - c) iii) is correct
-  - d) i) and iii) correct
+  -  i) is correct
+  -  iii) is correct
+  -  i) and iii) correct
 answers:
-  - b) i) and ii) are correct
+  -  i) and ii) are correct
 ---
 
 i) Ramakrishna Mission was actively involved in social causes such as education, health care, relief in time of calamities.

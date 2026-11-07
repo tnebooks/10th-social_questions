@@ -6,8 +6,7 @@ choices:
 answers:
   - Gandhiji
 ---
-
-## The Phoenix Settlement was established by:
+The Phoenix Settlement was established by:
 
 ---
 Gandhi established the Phoenix Settlement near Durban, South Africa, in 1904, inspired in part by John Ruskin's ideas.

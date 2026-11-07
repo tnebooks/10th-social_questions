@@ -6,11 +6,9 @@ choices:
 answers:
   - Is a permanent body not subject to dissolution
 ---
-
-## The Legislative Council of a State:
+The Legislative Council of a State:
 
 ---
 
-```markdown
+---
 A State Legislative Council is a continuing chamber and cannot be dissolved, although members retire in rotation.
-```

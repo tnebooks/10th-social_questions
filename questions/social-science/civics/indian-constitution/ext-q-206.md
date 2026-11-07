@@ -6,11 +6,9 @@ choices:
 answers:
   - 'Sovereign, Socialist, Secular, Democratic, Republic'
 ---
-
-## Which of the following sequences is correct regarding the Preamble to the Constitution of India?
+Which of the following sequences is correct regarding the Preamble to the Constitution of India?
 
 ---
 
-```markdown
+---
 The Preamble describes India as a Sovereign, Socialist, Secular, Democratic Republic, in that order.
-```

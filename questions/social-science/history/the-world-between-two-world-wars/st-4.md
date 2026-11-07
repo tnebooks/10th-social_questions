@@ -1,10 +1,10 @@
 ---
 choices:
-  - b) iii) is correct
-  - c) ii) and iii) are correct
+  -  iii) is correct
+  -  ii) and iii) are correct
   - 'd) i), ii) and iii) are correct'
 answers:
-  - a) i) and ii) are correct
+  -  i) and ii) are correct
 ---
 
  i) During World War I the primary task of Italy was to keep the Austrians occupied on the Southern Front

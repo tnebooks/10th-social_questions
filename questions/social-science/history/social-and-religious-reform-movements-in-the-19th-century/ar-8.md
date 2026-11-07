@@ -1,10 +1,10 @@
 ---
 choices:
-  - a) Assertion is correct but reason is not apt to the assertion
-  - c) Both are wrong
-  - d) Reason is correct but assertion is irrelevant
+  -  Assertion is correct but reason is not apt to the assertion
+  -  Both are wrong
+  -  Reason is correct but assertion is irrelevant
 answers:
-  - b) Assertion is correct and the reason is apt to the assertion
+  -  Assertion is correct and the reason is apt to the assertion
 ---
 
 Assertion: Jyotiba Phule opened orphanages and homes for widows

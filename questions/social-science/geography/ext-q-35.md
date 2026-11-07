@@ -5,8 +5,7 @@ answers:
   - "Coral reefs"
   - "Sea grass meadows"
 ---
-
-## Mangroves protect:
+Mangroves protect:
 
 ---
 

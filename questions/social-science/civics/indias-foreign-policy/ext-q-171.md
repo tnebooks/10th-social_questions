@@ -6,8 +6,7 @@ answers:
   - "Afghanistan"
   - "Iran"
 ---
-
-## Chabahar Agreement was signed as a trilateral transit treaty between:
+Chabahar Agreement was signed as a trilateral transit treaty between:
 
 ---
 

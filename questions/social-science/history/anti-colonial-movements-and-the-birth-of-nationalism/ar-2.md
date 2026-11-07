@@ -1,10 +1,10 @@
 ---
 choices:
-  - a) Both (A) and (R) are wrong
-  - b) (A) is wrong and (R) is correct
-  - d) Both (A) and (R) are correct, but R is not the correct explanation of A
+  -  Both (A) and (R) are wrong
+  -  (A) is wrong and (R) is correct
+  -  Both (A) and (R) are correct, but R is not the correct explanation of A
 answers:
-  - c) Both (A) and (R) are correct and R is the correct explanation of A
+  -  Both (A) and (R) are correct and R is the correct explanation of A
 ---
 
 

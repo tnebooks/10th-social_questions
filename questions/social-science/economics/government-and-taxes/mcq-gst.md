@@ -1,8 +1,8 @@
 ---
 choices:
-  - a) (i) and (ii) are correct
+  -  (i) and (ii) are correct
   - 'b) (ii), (iii) and (iv) are correct'
-  - d) All are correct
+  -  All are correct
 answers:
   - 'c) (i), (iii) and (iv) are correct'
 ---

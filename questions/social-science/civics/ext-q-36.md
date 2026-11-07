@@ -6,11 +6,9 @@ choices:
 answers:
   - 'Government of India Act, 1935'
 ---
-
-## Which Act introduced Provincial Autonomy?
+Which Act introduced Provincial Autonomy?
 
 ---
 
-```markdown
+---
 The Government of India Act, 1935 introduced provincial autonomy, which came into operation in the provinces in 1937.
-```

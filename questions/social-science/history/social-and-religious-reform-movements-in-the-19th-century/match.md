@@ -12,5 +12,4 @@ matches:
   - Journal
   - Songs of Grace
 ---
-
-## Match the Following
+Match the Following
