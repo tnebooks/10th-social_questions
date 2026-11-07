@@ -1,16 +1,13 @@
 ---
 choices:
-  - "Theni"
-  - "Madurai"
-  - "Thanjavur"
-  - "Ramanathapuram"
-answers: []
+  - Theni
+  - Madurai
+  - Thanjavur
+answers:
+  - Ramanathapuram
 ---
 
 ## Which district of Tamil Nadu is affected by sand dune movement to a large extent?
 
 ---
-
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+Ramanathapuram's dry, sandy coastal landscape is particularly affected by wind-driven movement of sand dunes.

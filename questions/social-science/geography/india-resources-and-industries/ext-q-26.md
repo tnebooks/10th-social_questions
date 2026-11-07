@@ -1,16 +1,16 @@
 ---
 choices:
-  - "Oxygen"
-  - "Water"
-  - "Carbon"
-  - "Nitrogen"
-answers: []
+  - Oxygen
+  - Water
+  - Nitrogen
+answers:
+  - Carbon
 ---
 
 ## The most important constituents of petroleum are hydrogen and:
 
 ---
 
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+```markdown
+Petroleum is composed mainly of hydrocarbons, which contain hydrogen and carbon.
+```

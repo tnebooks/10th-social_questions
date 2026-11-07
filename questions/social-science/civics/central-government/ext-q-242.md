@@ -1,16 +1,16 @@
 ---
 choices:
-  - "Dr. B.R. Ambedkar"
-  - "Dr. Rajendra Prasad"
-  - "Dr. Sachchidananda Sinha"
-  - "Jawaharlal Nehru"
-answers: []
+  - Dr. B.R. Ambedkar
+  - Dr. Rajendra Prasad
+  - Jawaharlal Nehru
+answers:
+  - Dr. Sachchidananda Sinha
 ---
 
 ## Who was elected as the temporary President of the Constituent Assembly of India?
 
 ---
 
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+```markdown
+Dr. Sachchidananda Sinha presided as the temporary President of the Constituent Assembly before Dr. Rajendra Prasad was elected its permanent President.
+```

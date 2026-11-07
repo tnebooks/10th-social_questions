@@ -1,16 +1,13 @@
 ---
 choices:
-  - "Chamberlain"
-  - "Winston Churchill"
-  - "Lloyd George"
-  - "Stanley Baldwin"
-answers: []
+  - Winston Churchill
+  - Lloyd George
+  - Stanley Baldwin
+answers:
+  - Chamberlain
 ---
 
 ## Which Prime Minister of Britain signed the Munich Pact with Germany?
 
 ---
-
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+British Prime Minister Neville Chamberlain signed the Munich Agreement with Adolf Hitler in September 1938.

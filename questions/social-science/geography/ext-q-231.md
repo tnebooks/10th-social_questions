@@ -1,16 +1,16 @@
 ---
 choices:
-  - "1925"
-  - "1927"
-  - "1929"
-  - "1930"
-answers: []
+  - '1925'
+  - '1929'
+  - '1930'
+answers:
+  - '1927'
 ---
 
 ## The Vietnam Nationalist Party (Viet Nam Quoc Dan Dang) was formed in the year:
 
 ---
 
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+```markdown
+The Vietnam Nationalist Party (Việt Nam Quốc Dân Đảng) was founded in 1927 to pursue Vietnamese independence.
+```

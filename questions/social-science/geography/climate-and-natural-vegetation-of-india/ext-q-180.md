@@ -1,16 +1,16 @@
 ---
 choices:
-  - "Mahanadi"
-  - "Godavari"
-  - "Krishna"
-  - "Cauvery"
-answers: []
+  - Mahanadi
+  - Krishna
+  - Cauvery
+answers:
+  - Godavari
 ---
 
 ## Which river in Peninsular India is traditionally called 'Vridha Ganga'?
 
 ---
 
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+```markdown
+The Godavari is often called Vridha Ganga, or the "Old Ganga," because it is the largest river system in Peninsular India.
+```

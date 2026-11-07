@@ -1,16 +1,16 @@
 ---
 choices:
-  - "Once"
-  - "Twice"
-  - "Thrice"
-  - "Never"
-answers: []
+  - Twice
+  - Thrice
+  - Never
+answers:
+  - Once
 ---
 
 ## How many times has the Preamble to the Constitution of India been amended?
 
 ---
 
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+```markdown
+The Preamble has been amended once, by the 42nd Amendment Act of 1976.
+```

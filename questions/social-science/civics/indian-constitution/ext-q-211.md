@@ -1,16 +1,16 @@
 ---
 choices:
-  - "America"
-  - "Canada"
-  - "Soviet Russia (USSR)"
-  - "Ireland"
-answers: []
+  - America
+  - Canada
+  - Ireland
+answers:
+  - Soviet Russia (USSR)
 ---
 
 ## We borrowed the Fundamental Duties from the Constitution of:
 
 ---
 
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+```markdown
+The idea of Fundamental Duties in the Indian Constitution was inspired by the Constitution of the Soviet Union.
+```

@@ -1,16 +1,16 @@
 ---
 choices:
-  - "1905"
-  - "1910"
-  - "1912"
-  - "1920"
-answers: []
+  - '1905'
+  - '1912'
+  - '1920'
+answers:
+  - '1910'
 ---
 
 ## The Union of South Africa came into official being in May:
 
 ---
 
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+```markdown
+The Union of South Africa was established on 31 May 1910.
+```

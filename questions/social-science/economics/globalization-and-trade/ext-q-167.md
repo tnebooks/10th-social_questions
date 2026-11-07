@@ -1,16 +1,13 @@
 ---
 choices:
-  - "Coffee"
-  - "Cocoa"
-  - "Honey"
-  - "Crafts"
-answers: []
+  - Coffee
+  - Cocoa
+  - Honey
+answers:
+  - Crafts
 ---
 
 ## Which of the following is NOT classified under Fair Trade food products?
 
 ---
-
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+Coffee, cocoa, and honey are Fair Trade food products. Crafts may also be Fair Trade goods, but they are not food products.

@@ -1,16 +1,13 @@
 ---
 choices:
-  - "Anaimudi"
-  - "Doddabetta"
-  - "Mahendragiri"
-  - "Servarayan"
-answers: []
+  - Anaimudi
+  - Mahendragiri
+  - Servarayan
+answers:
+  - Doddabetta
 ---
 
 ## The highest peak in Tamil Nadu is:
 
 ---
-
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+Doddabetta, at about 2,637 metres in the Nilgiri Hills, is the highest peak in Tamil Nadu.

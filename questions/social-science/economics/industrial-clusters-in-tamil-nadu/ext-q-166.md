@@ -1,16 +1,13 @@
 ---
 choices:
-  - "Agriculture sector"
-  - "Industrial sector"
-  - "Service sector"
-  - "Mining sector"
-answers: []
+  - Industrial sector
+  - Service sector
+  - Mining sector
+answers:
+  - Agriculture sector
 ---
 
 ## Which sector contributes the highest share to employment in the Indian economy?
 
 ---
-
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+Agriculture continues to employ the largest share of India's workforce, even though its share of output is lower than that of services.

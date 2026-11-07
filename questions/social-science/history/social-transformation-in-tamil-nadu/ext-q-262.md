@@ -1,16 +1,13 @@
 ---
 choices:
-  - "Bihar"
-  - "Kerala"
-  - "Tamil Nadu"
-  - "Rajasthan"
-answers: []
+  - Kerala
+  - Tamil Nadu
+  - Rajasthan
+answers:
+  - Bihar
 ---
 
 ## The lowest literacy rate among Indian states according to recent census data is in:
 
 ---
-
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+According to India's 2011 Census, Bihar had the lowest literacy rate among the states.

@@ -1,16 +1,16 @@
 ---
 choices:
-  - "Goat"
-  - "Buffalo"
-  - "Sheep"
-  - "Cow"
-answers: []
+  - Buffalo
+  - Sheep
+  - Cow
+answers:
+  - Goat
 ---
 
 ## Poor Man's Cow in Indian agricultural society refers to the:
 
 ---
 
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+```markdown
+Goats are often called the "poor man's cow" because they provide milk and can be reared with relatively limited resources.
+```

@@ -1,16 +1,13 @@
 ---
 choices:
-  - "Tokyo"
-  - "Uruguay"
-  - "Torquay"
-  - "Geneva"
-answers: []
+  - Tokyo
+  - Uruguay
+  - Torquay
+answers:
+  - Geneva
 ---
 
 ## GATT's first round of negotiations was held in:
 
 ---
-
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+The first GATT negotiating round took place in Geneva in 1947, where the original contracting parties negotiated tariff reductions.

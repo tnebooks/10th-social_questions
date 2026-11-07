@@ -1,16 +1,16 @@
 ---
 choices:
-  - "Cement"
-  - "Gold Jewels"
-  - "Tea"
-  - "Petroleum"
-answers: []
+  - Cement
+  - Gold Jewels
+  - Tea
+answers:
+  - Petroleum
 ---
 
 ## The major commodity imported by India in terms of value is:
 
 ---
 
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+```markdown
+Petroleum, especially crude oil, is India's major import by value because domestic production does not meet demand.
+```

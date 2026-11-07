@@ -1,16 +1,16 @@
 ---
 choices:
-  - "Kolkata"
-  - "Mumbai"
-  - "Ahmedabad"
-  - "Baroda"
-answers: []
+  - Mumbai
+  - Ahmedabad
+  - Baroda
+answers:
+  - Kolkata
 ---
 
 ## The first Jute Mill in India was established at:
 
 ---
 
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+```markdown
+India's first jute mill was established at Rishra near Kolkata in 1855.
+```

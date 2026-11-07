@@ -1,16 +1,16 @@
 ---
 choices:
-  - "Equality before law"
-  - "Prohibition of discrimination"
-  - "Equality of opportunity in public employment"
-  - "Abolition of titles"
-answers: []
+  - Prohibition of discrimination
+  - Equality of opportunity in public employment
+  - Abolition of titles
+answers:
+  - Equality before law
 ---
 
 ## Article 14 of the Constitution of India guarantees:
 
 ---
 
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+```markdown
+Article 14 guarantees equality before the law and equal protection of the laws to every person in India.
+```

@@ -1,16 +1,16 @@
 ---
 choices:
-  - "Bangladesh"
-  - "Myanmar"
-  - "Afghanistan"
-  - "China"
-answers: []
+  - Myanmar
+  - Afghanistan
+  - China
+answers:
+  - Bangladesh
 ---
 
 ## With which country does India share its longest international land border?
 
 ---
 
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+```markdown
+Bangladesh shares India's longest international land border, which is about 4,096 km long.
+```

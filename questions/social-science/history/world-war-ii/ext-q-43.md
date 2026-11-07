@@ -1,16 +1,13 @@
 ---
 choices:
-  - "Kawasaki"
-  - "Innoshima"
-  - "Hiroshima"
-  - "Nagasaki"
-answers: []
+  - Kawasaki
+  - Innoshima
+  - Nagasaki
+answers:
+  - Hiroshima
 ---
 
 ## Where did the US drop its first atomic bomb?
 
 ---
-
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+The United States dropped its first atomic bomb on Hiroshima on 6 August 1945.

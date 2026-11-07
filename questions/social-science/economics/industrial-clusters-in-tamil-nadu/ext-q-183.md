@@ -1,16 +1,13 @@
 ---
 choices:
-  - "Agriculture sector"
-  - "Service sector"
-  - "Secondary / Industrial sector"
-  - "Mining sector"
-answers: []
+  - Agriculture sector
+  - Secondary / Industrial sector
+  - Mining sector
+answers:
+  - Service sector
 ---
 
 ## Which sector is recognized as the growth engine of the Indian economy?
 
 ---
-
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+The service sector is widely described as a growth engine because it contributes substantially to economic output and has expanded rapidly.

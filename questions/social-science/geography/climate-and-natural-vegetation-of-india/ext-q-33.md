@@ -1,16 +1,16 @@
 ---
 choices:
-  - "Tropical Evergreen forests"
-  - "Deciduous forests"
-  - "Mangrove forests"
-  - "Mountain forests"
-answers: []
+  - Tropical Evergreen forests
+  - Mangrove forests
+  - Mountain forests
+answers:
+  - Deciduous forests
 ---
 
 ## Monsoon forests are otherwise called:
 
 ---
 
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+```markdown
+Monsoon forests are also called tropical deciduous forests because many trees shed their leaves during the dry season.
+```

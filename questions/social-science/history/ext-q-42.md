@@ -1,16 +1,13 @@
 ---
 choices:
-  - "China"
-  - "Japan"
-  - "Korea"
-  - "Mongolia"
-answers: []
+  - China
+  - Korea
+  - Mongolia
+answers:
+  - Japan
 ---
 
 ## Which country emerged as the strongest in East Asia towards the close of the nineteenth century?
 
 ---
-
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+Japan emerged as the strongest East Asian power after rapid modernization and its victory over China in the First Sino-Japanese War of 1894–1895.

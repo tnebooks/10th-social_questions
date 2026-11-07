@@ -1,16 +1,13 @@
 ---
 choices:
-  - "Karur"
-  - "Coimbatore"
-  - "Tirupur"
-  - "Erode"
-answers: []
+  - Karur
+  - Tirupur
+  - Erode
+answers:
+  - Coimbatore
 ---
 
 ## Which city is referred to as the "Textile Capital of Tamil Nadu"?
 
 ---
-
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+Coimbatore is called the Textile Capital of Tamil Nadu because it is a major centre for cotton spinning, weaving, and textile manufacturing.

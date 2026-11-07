@@ -1,16 +1,16 @@
 ---
 choices:
-  - "Bhabar"
-  - "Tarai"
-  - "Bhangar"
-  - "Khadar"
-answers: []
+  - Bhabar
+  - Tarai
+  - Khadar
+answers:
+  - Bhangar
 ---
 
 ## Plains formed by older alluvium are known as:
 
 ---
 
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+```markdown
+Bhangar consists of older alluvium deposited above the active floodplains, unlike the newer Khadar deposits.
+```

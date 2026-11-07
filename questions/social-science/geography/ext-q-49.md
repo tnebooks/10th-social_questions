@@ -1,16 +1,17 @@
 ---
 choices:
-  - "Sri Lanka and Andaman Islands"
-  - "Maldives and Lakshadweep Islands"
-  - "Maldives and Nicobar Islands"
-  - "Sri Lanka and Maldives"
-answers: []
+  - Andaman Islands
+  - Lakshadweep Islands
+  - Nicobar Islands
+answers:
+  - Sri Lanka
+  - Maldives
 ---
 
 ## Which two island countries are India's neighbors?
 
 ---
 
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+```markdown
+Sri Lanka and the Maldives are island countries located near India and are its maritime neighbours.
+```

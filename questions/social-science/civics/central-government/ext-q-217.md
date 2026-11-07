@@ -1,16 +1,16 @@
 ---
 choices:
-  - "Chief Minister"
-  - "Governor"
-  - "Speaker"
-  - "Deputy Chief Minister"
-answers: []
+  - Governor
+  - Speaker
+  - Deputy Chief Minister
+answers:
+  - Chief Minister
 ---
 
 ## The State Council of Ministers is headed by the:
 
 ---
 
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+```markdown
+The Chief Minister heads the State Council of Ministers and leads the state government.
+```

@@ -1,16 +1,16 @@
 ---
 choices:
-  - "Indus river system"
-  - "Ganga river system"
-  - "Godavari river system"
-  - "Brahmaputra river system"
-answers: []
+  - Indus river system
+  - Godavari river system
+  - Brahmaputra river system
+answers:
+  - Ganga river system
 ---
 
 ## The largest river drainage system in India is:
 
 ---
 
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+```markdown
+The Ganga river system drains the largest area in India, extending across much of northern India.
+```

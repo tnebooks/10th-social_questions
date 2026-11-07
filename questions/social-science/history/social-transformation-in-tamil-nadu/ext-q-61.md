@@ -1,16 +1,13 @@
 ---
 choices:
-  - "Kerala"
-  - "Andhra Pradesh"
-  - "Tamil Nadu"
-  - "Karnataka"
-answers: []
+  - Kerala
+  - Andhra Pradesh
+  - Karnataka
+answers:
+  - Tamil Nadu
 ---
 
 ## Which state is the only state in India to adopt a universal Public Distribution System (PDS)?
 
 ---
-
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+Tamil Nadu operates a universal PDS, making subsidized essential commodities available through the system beyond only households classified as poor.

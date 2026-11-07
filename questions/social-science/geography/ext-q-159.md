@@ -1,16 +1,16 @@
 ---
 choices:
-  - "China"
-  - "Russia"
-  - "Brazil"
-  - "India"
-answers: []
+  - Russia
+  - Brazil
+  - India
+answers:
+  - China
 ---
 
 ## Where is the headquarters of the BRICS New Development Bank located?
 
 ---
 
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+```markdown
+The New Development Bank's headquarters is in Shanghai, China.
+```

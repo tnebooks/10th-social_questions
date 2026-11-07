@@ -1,16 +1,16 @@
 ---
 choices:
-  - "President"
-  - "Attorney General"
-  - "Governor"
-  - "Prime Minister"
-answers: []
+  - Attorney General
+  - Governor
+  - Prime Minister
+answers:
+  - President
 ---
 
 ## The Chief Justice and other Judges of the Supreme Court are appointed by the:
 
 ---
 
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+```markdown
+Supreme Court judges are formally appointed by the President of India, following the constitutional appointment process.
+```

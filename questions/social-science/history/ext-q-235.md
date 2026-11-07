@@ -1,16 +1,13 @@
 ---
 choices:
-  - "Afrikaners"
-  - "British Loyalists"
-  - "Zulus"
-  - "Uitlanders"
-answers: []
+  - British Loyalists
+  - Zulus
+  - Uitlanders
+answers:
+  - Afrikaners
 ---
 
 ## Boers in South Africa were also known as:
 
 ---
-
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+Boers were descendants of European settlers in southern Africa and became known as Afrikaners.

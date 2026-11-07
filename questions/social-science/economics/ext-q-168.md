@@ -1,16 +1,13 @@
 ---
 choices:
-  - "Human Resources Index"
-  - "Per Capita Income"
-  - "Human Development Index (HDI)"
-  - "UNDP Report"
-answers: []
+  - Human Resources Index
+  - Per Capita Income
+  - UNDP Report
+answers:
+  - Human Development Index (HDI)
 ---
 
 ## Human Development is measured internationally using the:
 
 ---
-
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+The Human Development Index combines indicators of health, education, and income to compare human development across countries.

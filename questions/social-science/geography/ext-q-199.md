@@ -1,16 +1,16 @@
 ---
 choices:
-  - "Loo"
-  - "Norwesters"
-  - "Mango showers"
-  - "Jet stream"
-answers: []
+  - Loo
+  - Norwesters
+  - Jet stream
+answers:
+  - Mango showers
 ---
 
 ## Which phenomenon helps in quick ripening of mangoes along the coast of Kerala and Karnataka?
 
 ---
 
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+```markdown
+Pre-monsoon mango showers bring rain to the Kerala and Karnataka coasts and help mangoes ripen.
+```

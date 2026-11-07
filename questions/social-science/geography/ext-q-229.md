@@ -1,16 +1,16 @@
 ---
 choices:
-  - "Ferdinand Lassalle"
-  - "Karl Marx"
-  - "Friedrich Engels"
-  - "Otto von Bismarck"
-answers: []
+  - Karl Marx
+  - Friedrich Engels
+  - Otto von Bismarck
+answers:
+  - Ferdinand Lassalle
 ---
 
 ## The founder of the Social Democratic Party of Germany was:
 
 ---
 
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+```markdown
+Ferdinand Lassalle founded the General German Workers' Association, a forerunner of Germany's Social Democratic Party.
+```

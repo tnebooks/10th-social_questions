@@ -1,16 +1,16 @@
 ---
 choices:
-  - "Topography"
-  - "Cartography"
-  - "Demography"
-  - "Geology"
-answers: []
+  - Topography
+  - Cartography
+  - Geology
+answers:
+  - Demography
 ---
 
 ## The scientific study of human population characteristics is called:
 
 ---
 
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+```markdown
+Demography is the scientific study of human populations, including their size, distribution, and characteristics.
+```

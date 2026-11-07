@@ -1,16 +1,13 @@
 ---
 choices:
-  - "Tirukkural"
-  - "Tolkappiyam"
-  - "Viracholiyam"
-  - "Chulamani"
-answers: []
+  - Tolkappiyam
+  - Viracholiyam
+  - Chulamani
+answers:
+  - Tirukkural
 ---
 
 ## One of the earliest Tamil literary texts to be published in 1812 was:
 
 ---
-
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+The Tirukkural was among the earliest Tamil literary works printed, with an edition published in 1812.

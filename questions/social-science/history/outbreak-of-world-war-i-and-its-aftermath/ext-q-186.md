@@ -1,16 +1,13 @@
 ---
 choices:
-  - "Germany"
-  - "Russia"
-  - "Italy"
-  - "Japan"
-answers: []
+  - Germany
+  - Italy
+  - Japan
+answers:
+  - Soviet Union
 ---
 
 ## Which country was expelled from the League of Nations for attacking Finland?
 
 ---
-
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+The League of Nations expelled the Soviet Union in 1939 after it attacked Finland. The question's original "Russia" option imprecisely referred to the Soviet Union.

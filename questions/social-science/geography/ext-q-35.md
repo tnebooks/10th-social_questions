@@ -1,16 +1,13 @@
 ---
-choices:
+choices: []
+answers:
   - "Coastal areas from erosion"
   - "Coral reefs"
   - "Sea grass meadows"
-  - "All of these"
-answers: []
 ---
 
 ## Mangroves protect:
 
 ---
 
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+Mangroves stabilize shorelines and trap sediments, reducing coastal erosion and helping protect nearby coral reefs and seagrass meadows.

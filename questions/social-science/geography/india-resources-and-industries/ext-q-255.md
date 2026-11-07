@@ -2,15 +2,14 @@
 choices:
   - "Potato"
   - "Oilseeds"
-  - "Honey / Horticulture"
   - "Jute"
-answers: []
+answers:
+  - "Honey"
+  - "Horticulture"
 ---
 
 ## Golden Revolution is related to the accelerated production of:
 
 ---
 
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+The Golden Revolution is associated with increased horticultural production and honey production, so both items are correct.

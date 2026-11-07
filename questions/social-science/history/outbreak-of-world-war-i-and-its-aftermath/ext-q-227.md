@@ -1,16 +1,13 @@
 ---
 choices:
-  - "1911"
-  - "1912"
-  - "1913"
-  - "1914"
-answers: []
+  - '1911'
+  - '1912'
+  - '1914'
+answers:
+  - '1913'
 ---
 
 ## The Treaty of London ending the First Balkan War was signed in May:
 
 ---
-
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+The Treaty of London, which ended the First Balkan War, was signed on 30 May 1913.

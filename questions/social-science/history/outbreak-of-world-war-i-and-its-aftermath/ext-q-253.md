@@ -1,16 +1,13 @@
 ---
 choices:
-  - "Lusitania"
-  - "Royal"
-  - "Luftwaffe"
-  - "Berlin"
-answers: []
+  - Royal
+  - Luftwaffe
+  - Berlin
+answers:
+  - Lusitania
 ---
 
-## The famous American merchant ship sunk by a German submarine in WWI was the:
+## The famous British ocean liner sunk by a German submarine in World War I was the:
 
 ---
-
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+The British ocean liner RMS Lusitania, carrying passengers and cargo, was torpedoed by a German submarine in 1915.

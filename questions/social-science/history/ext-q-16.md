@@ -1,16 +1,13 @@
 ---
 choices:
-  - "Gandhiji"
-  - "John Ruskin"
-  - "Tolstoy"
-  - "Thoreau"
-answers: []
+  - John Ruskin
+  - Tolstoy
+  - Thoreau
+answers:
+  - Gandhiji
 ---
 
 ## The Phoenix Settlement was established by:
 
 ---
-
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+Gandhi established the Phoenix Settlement near Durban, South Africa, in 1904, inspired in part by John Ruskin's ideas.

@@ -1,16 +1,13 @@
 ---
 choices:
-  - "Kol Revolt"
-  - "Santhal Rebellion"
-  - "Munda Rebellion"
-  - "Rampa Rebellion"
-answers: []
+  - Kol Revolt
+  - Santhal Rebellion
+  - Rampa Rebellion
+answers:
+  - Munda Rebellion
 ---
 
 ## The major tribal revolt which took place in the Chota Nagpur region was the:
 
 ---
-
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+The Munda Rebellion, led by Birsa Munda around 1899–1900, took place in the Chota Nagpur region.

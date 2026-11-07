@@ -1,16 +1,16 @@
 ---
 choices:
-  - "Heinrich Himmler"
-  - "Josef Goebbels"
-  - "Hermann Göring"
-  - "Rudolf Hess"
-answers: []
+  - Heinrich Himmler
+  - Hermann Göring
+  - Rudolf Hess
+answers:
+  - Josef Goebbels
 ---
 
 ## The Nazi Party's propaganda minister was:
 
 ---
 
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+```markdown
+Josef Goebbels served as the Nazi Party's Minister of Propaganda under Adolf Hitler.
+```

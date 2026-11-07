@@ -1,16 +1,13 @@
 ---
 choices:
-  - "Battle of Guadalcanal"
-  - "Battle of Midway"
-  - "Battle of Leningrad"
-  - "Battle of El Alamein"
-answers: []
+  - Battle of Guadalcanal
+  - Battle of Leningrad
+  - Battle of El Alamein
+answers:
+  - Battle of Midway
 ---
 
 ## Where was the Japanese Navy defeated by the American (US) Navy in WWII?
 
 ---
-
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+At the Battle of Midway in June 1942, U.S. naval forces defeated the Japanese fleet and stopped its advance in the Pacific.

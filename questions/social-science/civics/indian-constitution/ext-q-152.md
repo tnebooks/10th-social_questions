@@ -1,16 +1,16 @@
 ---
 choices:
-  - "Right to Equality"
-  - "Right against Exploitation"
-  - "Right to Property"
-  - "Cultural and Educational Rights"
-answers: []
+  - Right to Equality
+  - Right against Exploitation
+  - Cultural and Educational Rights
+answers:
+  - Right to Property
 ---
 
 ## Which of the following was removed from the list of Fundamental Rights in India?
 
 ---
 
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+```markdown
+The 44th Amendment Act removed the Right to Property from the list of Fundamental Rights; it is now a constitutional legal right under Article 300A.
+```

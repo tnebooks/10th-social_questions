@@ -1,16 +1,13 @@
 ---
 choices:
-  - "Mettur"
-  - "Papanasam"
-  - "Sathanur"
-  - "Tungabhadra"
-answers: []
+  - Papanasam
+  - Sathanur
+  - Tungabhadra
+answers:
+  - Mettur
 ---
 
 ## A major hydro-electric power project of Tamil Nadu is:
 
 ---
-
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+The Mettur hydro-electric project on the Cauvery is a major hydro-power project in Tamil Nadu.

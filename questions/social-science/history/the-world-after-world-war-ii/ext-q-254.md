@@ -1,16 +1,13 @@
 ---
 choices:
-  - "SEATO"
-  - "NATO"
-  - "CENTO"
-  - "Warsaw Pact"
-answers: []
+  - SEATO
+  - CENTO
+  - Warsaw Pact
+answers:
+  - NATO
 ---
 
 ## The United States and its Western European allies formed which defense alliance in 1949?
 
 ---
-
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+The North Atlantic Treaty Organization (NATO) was founded in 1949 by the United States, Canada, and Western European countries as a collective-defense alliance.

@@ -1,16 +1,13 @@
 ---
 choices:
-  - "Gujarat"
-  - "Rajasthan"
-  - "Maharashtra"
-  - "Tamil Nadu"
-answers: []
+  - Gujarat
+  - Rajasthan
+  - Tamil Nadu
+answers:
+  - Maharashtra
 ---
 
 ## The first Nuclear Power station was commissioned in:
 
 ---
-
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+India's first commercial nuclear power station, Tarapur Atomic Power Station, was commissioned in Maharashtra in 1969.

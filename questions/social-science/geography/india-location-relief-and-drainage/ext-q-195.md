@@ -1,16 +1,14 @@
 ---
 choices:
-  - "2,500 km"
-  - "2,933 km"
-  - "3,214 km"
-  - "2,814 km"
-answers: []
+  - '2,500 km'
+  - '2,933 km'
+  - '2,814 km'
+answers:
+  - '3,214 km'
 ---
 
 ## The north-south extent of India is:
 
 ---
 
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+India extends about 3,214 km from north to south, from Indira Col in the north to Kanyakumari in the south.

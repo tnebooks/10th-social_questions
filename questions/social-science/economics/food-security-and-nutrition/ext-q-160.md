@@ -1,16 +1,13 @@
 ---
 choices:
-  - "Anemia"
-  - "Underweight"
-  - "Stunting / Weakness"
-  - "All of these"
-answers: []
+  - Anemia
+  - Underweight
+  - Stunting / Weakness
+answers:
+  - All of these
 ---
 
 ## Which of the following is a key indicator of nutritional deficiency among children?
 
 ---
-
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+Anemia, underweight, and stunting are all signs of nutritional deficiency in children, so all of the listed indicators apply.

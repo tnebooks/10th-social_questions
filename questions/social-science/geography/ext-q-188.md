@@ -1,16 +1,16 @@
 ---
 choices:
-  - "Hernan Cortes"
-  - "Francisco Pizarro"
-  - "Toussaint Louverture"
-  - "Pedro I"
-answers: []
+  - Francisco Pizarro
+  - Toussaint Louverture
+  - Pedro I
+answers:
+  - Hernan Cortes
 ---
 
 ## With whose conquest did the Mexican civilization collapse?
 
 ---
 
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+```markdown
+Hernán Cortés led the Spanish conquest of the Aztec Empire in Mexico, bringing the Mexica civilization under Spanish rule.
+```

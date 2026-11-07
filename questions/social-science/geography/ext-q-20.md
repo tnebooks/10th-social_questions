@@ -1,16 +1,16 @@
 ---
 choices:
-  - "Air India"
-  - "Indian Airlines"
-  - "Vayudoot"
-  - "Pawan Hans"
-answers: []
+  - Air India
+  - Indian Airlines
+  - Vayudoot
+answers:
+  - Pawan Hans
 ---
 
 ## Which of the following is associated with helicopter service?
 
 ---
 
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+```markdown
+Pawan Hans is the Indian public-sector company associated with helicopter services.
+```

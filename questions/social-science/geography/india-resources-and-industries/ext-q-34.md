@@ -1,16 +1,16 @@
 ---
 choices:
-  - "Kolkata"
-  - "Tuticorin"
-  - "Goa"
-  - "Visakhapatnam"
-answers: []
+  - Kolkata
+  - Tuticorin
+  - Goa
+answers:
+  - Visakhapatnam
 ---
 
 ## One of the shore-based steel plants of India is located at:
 
 ---
 
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+```markdown
+The Visakhapatnam steel plant is located on the coast of the Bay of Bengal, making it a shore-based steel plant.
+```

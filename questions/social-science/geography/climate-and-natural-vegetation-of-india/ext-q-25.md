@@ -1,16 +1,16 @@
 ---
 choices:
-  - "Latitudinal extent"
-  - "Altitude"
-  - "Distance from sea"
-  - "Soil"
-answers: []
+  - Latitudinal extent
+  - Altitude
+  - Distance from sea
+answers:
+  - Soil
 ---
 
 ## Choose the inappropriate answer: Climate of India is affected by:
 
 ---
 
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+```markdown
+India's climate is affected by latitude, altitude, and distance from the sea; soil is not a primary climatic control.
+```

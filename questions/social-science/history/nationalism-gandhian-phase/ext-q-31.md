@@ -1,16 +1,13 @@
 ---
 choices:
-  - "Kamaraj"
-  - "Rajaji"
-  - "K. Santhanam"
-  - "T. Prakasam"
-answers: []
+  - Kamaraj
+  - K. Santhanam
+  - T. Prakasam
+answers:
+  - Rajaji
 ---
 
 ## Who set up the Satyagraha camp in Udyavanam near Madras?
 
 ---
-
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+Rajaji organized the Satyagraha camp at Udyavanam near Madras as part of the preparations for the Vedaranyam Salt Satyagraha.

@@ -1,10 +1,10 @@
 ---
 choices:
-  - "(i) and (ii)"
-  - "(iv)"
-  - "(i)"
-  - "(ii) and (iii)"
-answers: []
+  - (i) and (ii)
+  - (i)
+  - (ii) and (iii)
+answers:
+  - (iv)
 ---
 
 ## Which statement regarding black money is INCORRECT?
@@ -14,7 +14,4 @@ answers: []
 (iv) When the tax rate is low, more black money is generated.
 
 ---
-
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+Statement (iv) is incorrect. Lower tax rates generally reduce the incentive to evade taxes; higher rates can encourage people to conceal income. The other statements describe recognized causes or sources of black money.

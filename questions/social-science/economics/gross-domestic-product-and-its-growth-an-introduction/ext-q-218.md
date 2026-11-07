@@ -1,16 +1,13 @@
 ---
 choices:
-  - "NNP adjusted for inflation"
-  - "GDP adjusted for inflation"
-  - "GDP plus net factor income from abroad"
-  - "NNP plus net property income from abroad"
-answers: []
+  - NNP adjusted for inflation
+  - GDP adjusted for inflation
+  - NNP plus net property income from abroad
+answers:
+  - GDP plus net factor income from abroad
 ---
 
 ## Gross National Product (GNP) equals:
 
 ---
-
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+Gross National Product equals Gross Domestic Product plus net factor income earned from abroad.

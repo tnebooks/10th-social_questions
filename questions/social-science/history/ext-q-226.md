@@ -1,16 +1,13 @@
 ---
 choices:
-  - "1894"
-  - "1902"
-  - "1913"
-  - "1905"
-answers: []
+  - '1902'
+  - '1913'
+  - '1905'
+answers:
+  - '1894'
 ---
 
 ## Japan forced a war on China (First Sino-Japanese War) in the year:
 
 ---
-
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+The First Sino-Japanese War began in 1894, when Japan and China fought over influence in Korea.

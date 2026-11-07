@@ -1,16 +1,16 @@
 ---
 choices:
-  - "Padma"
-  - "Jamuna"
-  - "Tsangpo"
-  - "Meghna"
-answers: []
+  - Padma
+  - Jamuna
+  - Meghna
+answers:
+  - Tsangpo
 ---
 
 ## The river Brahmaputra is known by which name in Tibet?
 
 ---
 
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+```markdown
+In Tibet, the Brahmaputra is known as the Tsangpo, or Yarlung Tsangpo, before it flows into India.
+```

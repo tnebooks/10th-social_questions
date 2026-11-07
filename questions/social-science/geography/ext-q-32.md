@@ -1,16 +1,16 @@
 ---
 choices:
-  - "Goa"
-  - "West Bengal"
-  - "Sri Lanka"
-  - "Maldives"
-answers: []
+  - Goa
+  - West Bengal
+  - Maldives
+answers:
+  - Sri Lanka
 ---
 
 ## The Palk Strait and Gulf of Mannar separate India from:
 
 ---
 
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+```markdown
+The Palk Strait and the Gulf of Mannar lie between the Indian coast and Sri Lanka, separating the island from mainland India.
+```

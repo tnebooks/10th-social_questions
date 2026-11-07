@@ -1,16 +1,13 @@
 ---
 choices:
-  - "Dayananda Saraswathi"
-  - "Vaikunda Swamy"
-  - "Annie Besant"
-  - "Swami Shradanatha"
-answers: []
+  - Vaikunda Swamy
+  - Annie Besant
+  - Swami Shradanatha
+answers:
+  - Dayananda Saraswathi
 ---
 
 ## Who was the author of the book *Satyarthaprakash*?
 
 ---
-
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+Swami Dayananda Saraswati, founder of the Arya Samaj, wrote *Satyarthaprakash* to explain and advocate his religious and social reform ideas.

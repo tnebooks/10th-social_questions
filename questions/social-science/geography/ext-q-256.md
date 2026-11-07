@@ -1,16 +1,16 @@
 ---
 choices:
-  - "Chennai"
-  - "Salem"
-  - "Madurai"
-  - "Coimbatore"
-answers: []
+  - Chennai
+  - Salem
+  - Madurai
+answers:
+  - Coimbatore
 ---
 
 ## Which city is called the 'Manchester of South India'?
 
 ---
 
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+```markdown
+Coimbatore is called the Manchester of South India because of its extensive cotton textile and spinning industries.
+```

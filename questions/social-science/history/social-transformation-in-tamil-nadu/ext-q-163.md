@@ -1,16 +1,13 @@
 ---
 choices:
-  - "Dharmapuri"
-  - "Vellore"
-  - "Dindigul"
-  - "Erode"
-answers: []
+  - Vellore
+  - Dindigul
+  - Erode
+answers:
+  - Dharmapuri
 ---
 
 ## Which district has the largest area under forest cover in Tamil Nadu?
 
 ---
-
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+Among the listed districts, Dharmapuri has the largest area under forest cover.

@@ -1,16 +1,16 @@
 ---
 choices:
-  - "Roadways"
-  - "Railways"
-  - "Airways"
-  - "Waterways"
-answers: []
+  - Roadways
+  - Railways
+  - Waterways
+answers:
+  - Airways
 ---
 
 ## The transport mode most useful in accessing remote and hilly inaccessible regions is:
 
 ---
 
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+```markdown
+Airways can connect remote, mountainous regions that are difficult to reach by road or rail.
+```

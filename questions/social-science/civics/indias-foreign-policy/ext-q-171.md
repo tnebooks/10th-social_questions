@@ -1,16 +1,14 @@
 ---
 choices:
-  - "India, Pakistan, and Afghanistan"
-  - "India, Afghanistan, and Iran"
-  - "Pakistan, Afghanistan, and Iran"
-  - "India, Iran, and Pakistan"
-answers: []
+  - "Pakistan"
+answers:
+  - "India"
+  - "Afghanistan"
+  - "Iran"
 ---
 
 ## Chabahar Agreement was signed as a trilateral transit treaty between:
 
 ---
 
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+The Chabahar transit agreement signed in 2016 was a trilateral arrangement among India, Afghanistan, and Iran.

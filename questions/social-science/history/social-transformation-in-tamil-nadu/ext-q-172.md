@@ -1,16 +1,13 @@
 ---
 choices:
-  - "1980"
-  - "1975"
-  - "1955"
-  - "1990"
-answers: []
+  - '1975'
+  - '1955'
+  - '1990'
+answers:
+  - '1980'
 ---
 
 ## Tamil Nadu Integrated Nutrition Programme (TINP) was launched in:
 
 ---
-
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+The Tamil Nadu Integrated Nutrition Programme (TINP) began in 1980 to improve nutrition and health among young children and mothers.

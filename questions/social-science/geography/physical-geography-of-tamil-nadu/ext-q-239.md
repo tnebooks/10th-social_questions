@@ -1,16 +1,15 @@
 ---
 choices:
   - "Mount Everest"
-  - "Kanchenjunga / Mt. Godwin Austen (K2)"
+  - "Kanchenjunga"
   - "Nanda Devi"
   - "Anaimudi"
-answers: []
+answers:
+  - "Mt. Godwin Austen (K2)"
 ---
 
-## Which peak is the highest mountain peak located in India?
+## Which peak is considered the highest in India in standard Indian geography texts?
 
 ---
 
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+Standard Indian geography texts identify Mount Godwin Austen (K2), in the Karakoram Range, as India's highest peak; Kanchenjunga is the next highest.

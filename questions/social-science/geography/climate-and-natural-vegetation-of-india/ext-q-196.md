@@ -1,16 +1,16 @@
 ---
 choices:
-  - "Narmada"
-  - "Godavari"
-  - "Kosi"
-  - "Damodar"
-answers: []
+  - Narmada
+  - Godavari
+  - Damodar
+answers:
+  - Kosi
 ---
 
 ## Which river is known as the 'Sorrow of Bihar'?
 
 ---
 
-<!-- TODO: Add the correct answer to answers.
-     Add an explanation/rationale below this separator.
--->
+```markdown
+The Kosi is called the "Sorrow of Bihar" because its floods have repeatedly changed course and caused extensive damage.
+```
