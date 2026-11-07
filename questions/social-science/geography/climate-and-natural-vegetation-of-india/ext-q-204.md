@@ -10,5 +10,4 @@ Retreating monsoon winds pick up moisture while passing over the:
 
 ---
 
----
 The retreating northeast monsoon picks up moisture from the Bay of Bengal and brings rain to parts of southeastern India.

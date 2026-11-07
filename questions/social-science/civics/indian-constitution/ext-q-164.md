@@ -10,5 +10,4 @@ Article 14 of the Constitution of India guarantees:
 
 ---
 
----
 Article 14 guarantees equality before the law and equal protection of the laws to every person in India.

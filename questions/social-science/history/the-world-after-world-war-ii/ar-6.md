@@ -1,6 +1,6 @@
 ---
 choices:
-  - 'a) Both (A) and (R) are correct, but R is not the correct explanation of A'
+  - 'Both (A) and (R) are correct, but R is not the correct explanation of A'
   -  Both (A) and (R) are wrong
   -  (A) is wrong and (R) is correct
 answers:

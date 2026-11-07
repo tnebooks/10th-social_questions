@@ -10,5 +10,4 @@ The ANC leader Nelson Mandela was imprisoned for how many years?
 
 ---
 
----
 Nelson Mandela spent 27 years in prison before his release in 1990.

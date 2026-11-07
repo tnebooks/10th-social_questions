@@ -10,5 +10,4 @@ Black Soil is regionally and scientifically known as:
 
 ---
 
----
 Black soil is called regur soil, a name derived from a regional term for this dark, clay-rich soil.

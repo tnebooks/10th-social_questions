@@ -10,5 +10,4 @@ The Nazi Party's propaganda minister was:
 
 ---
 
----
 Josef Goebbels served as the Nazi Party's Minister of Propaganda under Adolf Hitler.

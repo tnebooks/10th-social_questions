@@ -10,5 +10,4 @@ The Legislative Council of a State:
 
 ---
 
----
 A State Legislative Council is a continuing chamber and cannot be dissolved, although members retire in rotation.

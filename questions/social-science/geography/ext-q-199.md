@@ -10,5 +10,4 @@ Which phenomenon helps in quick ripening of mangoes along the coast of Kerala an
 
 ---
 
----
 Pre-monsoon mango showers bring rain to the Kerala and Karnataka coasts and help mangoes ripen.

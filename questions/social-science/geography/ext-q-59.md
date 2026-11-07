@@ -10,5 +10,4 @@ How many countries share their land borders with India?
 
 ---
 
----
 India shares land borders with seven countries: Pakistan, Afghanistan, China, Nepal, Bhutan, Bangladesh, and Myanmar.

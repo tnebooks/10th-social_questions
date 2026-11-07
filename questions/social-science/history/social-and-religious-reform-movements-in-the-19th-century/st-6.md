@@ -2,7 +2,7 @@
 choices:
   -  i) is correct
   -  i) and ii) are correct
-  - 'c) i), ii) and iii) are correct'
+  - 'i), ii) and iii) are correct'
 answers:
   -  i) and iii) are correct
 ---

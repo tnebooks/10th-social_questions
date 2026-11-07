@@ -10,5 +10,4 @@ Monsoon forests are otherwise called:
 
 ---
 
----
 Monsoon forests are also called tropical deciduous forests because many trees shed their leaves during the dry season.

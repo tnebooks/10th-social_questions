@@ -1,6 +1,5 @@
 ---
 tags:
-  - 'geography'
   - '2024'
 choices:
   - 'செம்மண்'

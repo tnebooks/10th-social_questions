@@ -10,5 +10,4 @@ The members of the Rajya Sabha are elected for a term of:
 
 ---
 
----
 Rajya Sabha members serve six-year terms, with one-third of the members retiring every two years.

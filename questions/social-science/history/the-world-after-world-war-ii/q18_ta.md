@@ -1,6 +1,5 @@
 ---
 tags:
-  - 'history'
   - '2024'
 choices:
   - '1979'

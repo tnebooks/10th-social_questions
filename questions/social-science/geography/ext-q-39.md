@@ -10,5 +10,4 @@ When was the People's Political Consultative Conference held in China?
 
 ---
 
----
 The first plenary session of China's People's Political Consultative Conference opened in Beijing in September 1949.

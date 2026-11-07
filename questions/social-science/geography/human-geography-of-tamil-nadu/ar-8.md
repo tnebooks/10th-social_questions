@@ -1,6 +1,6 @@
 ---
 choices:
-  - 'b) Both (A) and (R) are true but, (R) does not explain (A)'
+  - 'Both (A) and (R) are true but, (R) does not explain (A)'
   -  (A) is true but (R) is false
   -  (A) is false but (R) is true
 answers:

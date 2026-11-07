@@ -10,5 +10,4 @@ Under which Article can a financial emergency be proclaimed?
 
 ---
 
----
 Article 360 empowers the President to proclaim a Financial Emergency if India's financial stability or credit is threatened.

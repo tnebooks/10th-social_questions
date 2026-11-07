@@ -1,7 +1,7 @@
 ---
 choices:
   -  Both (A) and (R) are true and (R) explains (A)
-  - 'b) Both (A) and (R) are true: (R) does not explain (A)'
+  - 'Both (A) and (R) are true: (R) does not explain (A)'
   -  (A) is false (R) is true
 answers:
   -  (A) is correct (R) is false

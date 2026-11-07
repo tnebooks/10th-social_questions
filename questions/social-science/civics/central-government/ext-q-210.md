@@ -10,5 +10,4 @@ Under what circumstance can the enforcement of certain Fundamental Rights be sus
 
 ---
 
----
 During a National Emergency, Article 359 allows the President to suspend the right to move courts to enforce specified Fundamental Rights; Articles 20 and 21 cannot be suspended this way.

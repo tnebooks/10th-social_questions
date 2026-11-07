@@ -1,6 +1,5 @@
 ---
 tags:
-  - 'geography'
   - '2023'
 choices:
   - '4 மற்றும் 16'

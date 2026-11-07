@@ -1,10 +1,10 @@
 ---
 choices:
   -  (i) and (ii) are correct
-  - 'b) (ii), (iii) and (iv) are correct'
+  - '(ii), (iii) and (iv) are correct'
   -  All are correct
 answers:
-  - 'c) (i), (iii) and (iv) are correct'
+  - '(i), (iii) and (iv) are correct'
 ---
 
 Which of the following statement is correct about GST?

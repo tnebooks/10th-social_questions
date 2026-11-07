@@ -1,10 +1,10 @@
 ---
 choices:
-  - 'a) (i), (ii) and (iv) are correct'
+  - '(i), (ii) and (iv) are correct'
   -  (iii) and (iv) are correct
   -  (i) and (iv) are correct
 answers:
-  - 'b) (i), (ii) and (iii) are correct'
+  - '(i), (ii) and (iii) are correct'
 ---
 
 i) The Palayakkarars system was in practice in the Kakatiya Kingdom.

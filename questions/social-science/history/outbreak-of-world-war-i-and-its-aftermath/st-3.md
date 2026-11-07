@@ -4,7 +4,7 @@ choices:
   -  i) and iii) are correct
   -  ii) and iii) are correct
 answers:
-  - 'd) i), ii) and iii) are correct'
+  - 'i), ii) and iii) are correct'
 ---
 
  i) The Turkish Empire contained many non-Turkish people in the Balkans.

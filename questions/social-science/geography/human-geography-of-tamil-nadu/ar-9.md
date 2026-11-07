@@ -4,7 +4,7 @@ choices:
   -  (A) is true but (R) is false
   -  (A) is false but (R) is true
 answers:
-  - 'b) Both (A) and (R) are true but, (R) does not explain (A)'
+  - 'Both (A) and (R) are true but, (R) does not explain (A)'
 ---
 
 Assertion (A): The Nilgiris is the least populated district of Tamil Nadu.

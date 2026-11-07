@@ -10,5 +10,4 @@ Which of the following sequences is correct regarding the Preamble to the Consti
 
 ---
 
----
 The Preamble describes India as a Sovereign, Socialist, Secular, Democratic Republic, in that order.

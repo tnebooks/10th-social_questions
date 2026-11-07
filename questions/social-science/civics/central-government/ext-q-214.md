@@ -10,5 +10,4 @@ What is the minimum age laid down for a candidate to seek election to the Lok Sa
 
 ---
 
----
 A candidate must be at least 25 years old to contest an election to the Lok Sabha.

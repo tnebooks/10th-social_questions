@@ -4,7 +4,7 @@ choices:
   -  (iii) and (iv) are correct
   -  (i) and (iv) are correct
 answers:
-  - 'a) (i), (ii) and (iii) are correct'
+  - '(i), (ii) and (iii) are correct'
 ---
 
 (i) The Company received ₹22.5 million from Mir Jafar and invested it to propel the industrial revolution in Britain.

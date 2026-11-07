@@ -1,6 +1,5 @@
 ---
 tags:
-  - 'geography'
   - '2026'
 choices:
   - 'உயிரி சக்தி'

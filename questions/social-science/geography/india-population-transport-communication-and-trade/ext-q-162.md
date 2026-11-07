@@ -10,5 +10,4 @@ The transport mode most useful in accessing remote and hilly inaccessible region
 
 ---
 
----
 Airways can connect remote, mountainous regions that are difficult to reach by road or rail.

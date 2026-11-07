@@ -10,5 +10,4 @@ Who granted the English the "Golden Farman" in 1632?
 
 ---
 
----
 In 1632, the Sultan of Golconda granted the English East India Company a farman allowing duty-free trade in his ports in return for an annual payment.

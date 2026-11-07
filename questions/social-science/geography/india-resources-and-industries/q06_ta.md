@@ -1,6 +1,5 @@
 ---
 tags:
-  - 'geography'
   - '2023'
 choices:
   - '70% -க்கு மேல்'
