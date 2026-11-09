@@ -7,7 +7,7 @@ choices:
 
 matches:
   - Servaroy hills
-  - Coimbatore
-  - Salem
   - Tiruchirapalli
+  - Salem
+  - Coimbatore
 ---

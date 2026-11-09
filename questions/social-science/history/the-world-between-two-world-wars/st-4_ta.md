@@ -1,6 +1,6 @@
 ---
 choices:
-  - ஆ) iii) சரி
+  - iii) சரி
   - 'இ) ii), iii) ஆகியவை சரி'
   - 'ஈ) i), ii), iii) ஆகியவை சரி'
 answers:
